@@ -5,8 +5,8 @@ Installation/Usage
 -----------
 
     1. Download the https://raw.github.com/jeremehancock/aspinfo/master/aspinfo.asp
-    2. Upload to your sites content folder.
-    3. Go to YOURDOMAIN.com/aspinfo.asp
+    2. Upload to your site's publicly accessible folder.
+    3. Go to YOURDOMAIN.COM/PATH/TO/aspinfo.asp
     
 Credits:
 ------------
